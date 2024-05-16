@@ -17,15 +17,13 @@ This project is an AutoML (Automated Machine Learning) web application built usi
  - Matplotlib and Seaborn: Used for data visualization within the application.
 ## Setup Instructions
 Clone the repository:
-bash
 Copy code
  - git clone https://github.com/your-username/auto-ml-web-app.git
 ### Install dependencies:
-bash
 ### Copy code
  - pip install -r requirements.txt
 ### Run the Streamlit app:
-bash
+
 ### Copy code
  - streamlit run app.py
  - Access the web application via the provided local URL.
