@@ -29,7 +29,7 @@ st.set_page_config(
 
 st.title("🤖 Auto Machine Learning Model Training")
 
-dataset_list = os.listdir(f"{parent_dir}/data")
+dataset_list = os.listdir("data")
 
 dataset = st.selectbox("Select a dataset from the dropdown",
                        dataset_list,
