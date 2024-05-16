@@ -18,7 +18,9 @@ This project is an AutoML (Automated Machine Learning) web application built usi
  - Scikit-learn: Leveraged for machine learning model training and evaluation.
  - Pandas: Utilized for data manipulation and preprocessing.
  - Matplotlib and Seaborn: Used for data visualization within the application.
- - <img width="650" alt="1" src="Screenshot (14).png">
+
+   ## Web App
+   <img width="650" alt="1" src="Screenshot (14).png">
 ## Setup Instructions
 Clone the repository:
 Copy code
