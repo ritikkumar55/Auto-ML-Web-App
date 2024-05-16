@@ -3,7 +3,7 @@
 ## Overview
 This project is an AutoML (Automated Machine Learning) web application built using Streamlit. It allows users to easily upload datasets, select target variables, and train machine learning models with minimal coding required.
 # Display
-<img width="250" alt="1" src="Screenshot (13).png">
+<img width="550" alt="1" src="Screenshot (13).png">
 
 
 ## Features
