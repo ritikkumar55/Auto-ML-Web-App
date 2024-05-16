@@ -19,21 +19,21 @@ This project is an AutoML (Automated Machine Learning) web application built usi
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/auto-ml-web-app.git
-Install dependencies:
+ - git clone https://github.com/your-username/auto-ml-web-app.git
+### Install dependencies:
 bash
-Copy code
-pip install -r requirements.txt
-Run the Streamlit app:
+### Copy code
+ - pip install -r requirements.txt
+### Run the Streamlit app:
 bash
-Copy code
-streamlit run app.py
-Access the web application via the provided local URL.
-Usage
-Upload your dataset using the provided interface.
-Select the target variable(s) for model training.
-Initiate the model training process.
-Evaluate model performance using the provided metrics and visualizations.
-Optionally, deploy the trained model for inference.
+### Copy code
+ - streamlit run app.py
+ - Access the web application via the provided local URL.
+## Usage
+ - Upload your dataset using the provided interface.
+ - Select the target variable(s) for model training.
+ - Initiate the model training process.
+ - Evaluate model performance using the provided metrics and visualizations.
+ - Optionally, deploy the trained model for inference.
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
