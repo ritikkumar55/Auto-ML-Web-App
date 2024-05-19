@@ -39,5 +39,4 @@ Copy code
  - Initiate the model training process.
  - Evaluate model performance using the provided metrics and visualizations.
  - Optionally, deploy the trained model for inference.
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
