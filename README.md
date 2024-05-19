@@ -24,7 +24,7 @@ This project is an AutoML (Automated Machine Learning) web application built usi
 ## Setup Instructions
 Clone the repository:
 Copy code
- - git clone https://github.com/your-username/auto-ml-web-app.git
+ - git clone https://github.com/ritikkumar55/Auto-Ml-Web-App.git
 ### Install dependencies:
 ### Copy code
  - pip install -r requirements.txt
